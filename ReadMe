@@ -1,0 +1,10 @@
+Установитить:
+Node.js
+Angular CLI
+- npm install
+- npm bootstrap
+
+Из коммита исключены:
+.angular
+node_modules
+
